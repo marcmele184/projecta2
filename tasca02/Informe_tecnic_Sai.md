@@ -1,24 +1,4 @@
----
-title: |
-  []{#_4e6abd93t3fi
-  .anchor}![](media/image1.png){width="4.682292213473316in"
-  height="4.682292213473316in"}
-
-  []{#_nwjmca5ygnq5 .anchor}
-
-  []{#_lsil67wj6rsr .anchor}
-
-  []{#_s967ew28qdlb .anchor}
-
-  []{#_9s7wa13pa9p9 .anchor}
-
-  []{#_oswlkok0886e .anchor}
-
-  []{#_t1m69z2qaf5n .anchor}
-
-  []{#_4inp21ajg8e .anchor}
-
-  []{#_8ckvqdkqklyy .anchor}Informe tècnic: Estudi i selecció d'un SAI
+Informe tècnic: Estudi i selecció d'un SAI
   per a TecnoGestió S.L.
 ---
 
