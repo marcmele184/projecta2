@@ -1,3 +1,5 @@
+![Logo formació professional escola pia sant anna](img/baixa.png)
+
 Informe tècnic: Estudi i selecció d'un SAI
   per a TecnoGestió S.L.
 ---
