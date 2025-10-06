@@ -111,4 +111,4 @@ ordinadors amb energia per poder guardar la feina abans de perdre-la
 
 
 
-[Tornar enrera](../README.md)
+[Tornar a enunciat](README.md)
