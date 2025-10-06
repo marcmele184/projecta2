@@ -15,3 +15,11 @@ Junts van fundar la consultora EverPia, un nom que uneix “ever” (sempre) amb
 Ara sou vosaltres qui entreu a formar part d’aquesta història. Acabeu de ser contractats com a consultors júnior d’EverPia i us enfrontareu a reptes reals, provinents de clients molt diferents. 
 Cada encàrrec pot semblar independent, però tots formen part d’una mateixa aventura: demostrar que sou capaços de treballar amb professionalitat, rigor i esperit col·laboratiu.
 El repte és clar: aprendre a funcionar com a consultora. Això implica no només resoldre problemes tècnics, sinó també organitzar-vos, planificar i documentar. A EverPia es treballa amb la metodologia Kanban, utilitzant l’eina Planner, i es valora moltíssim mantenir el 
+
+---
+
+## Tasques del projecta 2
+
+[Tasca02](Tasca02/readme.md)
+
+[Tasca03](Tasca03/readme.md)
