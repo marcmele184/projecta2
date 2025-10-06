@@ -10,4 +10,4 @@ L’empresa TecnoGestió S.L., dedicada a la gestió documental i assessorament 
 
 A l'arxiu [informe final](Informe_tecnic_Sai.md)
 
-[Tornar al menu principal](projecta2)
+[Tornar al menu principal](../README.md)
