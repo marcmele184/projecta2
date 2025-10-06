@@ -40,18 +40,12 @@ Seguretat informàtica
 > a la zona que té una instal·lació que és demostra a continuació
 
 # 2. Inventari d'equips
+| Dispositiu         | Quantitat | Consum individual (W/VA) | Consum total (W/VA) |
+|--------------------|------------|---------------------------|----------------------|
+| Ordinador de sobretaula | 4 | 410W / 585VA | 1640W / 2340VA |
+| Monitors           | 4 | 39W / 55VA | 156W / 220VA |
+| Router             | 1 | 28W / 39VA | 28W / 39VA |
 
-  --------------------------------------------------------------------------
-  Dispositiu        Quantitat   Consum individual      Consum total (W/VA)
-                                (W/VA)                 
-  ----------------- ----------- ---------------------- ---------------------
-  Ordinador de      4           410W/585VA             1640W/2340VA
-  sobretaula                                           
-
-  Monitors          4           39W/55VA               156W/220VA
-
-  Router            1           28W/39VA               28W/39VA
-  --------------------------------------------------------------------------
 
 En aquest cas la impressora-fotocopiadora multifunció no la tindrem
 conectada al sai ja que el objectiu principal del sai és mantenir els
@@ -99,38 +93,12 @@ ordinadors amb energia per poder guardar la feina abans de perdre-la
 
 ## 
 
-+-------------+-------------+-------------+-------------+-------------+
-| #           | ## **Potè   | ##          | ## **Nombre | ## **T      |
-| # **Model** | ncia màxima | **Autonomia |  i tipus de | ecnologia** |
-|             |  (VA / W)** |  estimada** |  sortides** |             |
-+=============+=============+=============+=============+=============+
-| ##          | ## 4000     | ## \~11 min | ## So       | ## On-line, |
-| **SLC-4000- | VA / 4000 W |  al 80 % de | rtides AC t |  doble conv |
-| TWIN PRO3** |             |  càrrega am | ipus **C13* | ersió, mono |
-|             |             | b bateries  | * i **C19** | fàsic, amb  |
-|             |             | internes; a |             | tecnologia  |
-|             |             | mpliable fi |             | DSP, FP = 1 |
-|             |             | ns a 44-88  |             |             |
-|             |             | min amb mòd |             |             |
-|             |             | uls externs |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| ##          | ## 4000     | ## No esp   | ## 2 sor    | ## On-line, |
-|  **SLC-4000 | VA / 4000 W | ecificada ( | tides AC ti |  doble conv |
-| -TWIN RT3** |             | depèn de co | pus **C13** | ersió, mono |
-|             |             | nfiguració) |             | fàsic, form |
-|             |             |             |             | at torre/ra |
-|             |             |             |             | ck converti |
-|             |             |             |             | ble, FP = 1 |
-+-------------+-------------+-------------+-------------+-------------+
-| ## **SLC-   | ## 7500     | ## No espe  | ## No espe  | ## On-l     |
-| 7,5-CUBE4** | VA / 7500 W | cificada; a | cificat al  | ine, doble  |
-|             |  (trifàsic) | mb opcions  | full públic | conversió,  |
-|             |             | d'autonomia |             | trifàsic, c |
-|             |             |  estesa mit |             | ontrol DSP, |
-|             |             | jançant ban |             |  HF, FP = 1 |
-|             |             | cs de bater |             |             |
-|             |             | ies externs |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+| Model           | Potència màxima (VA / W) | Autonomia estimada                                | Nombre i tipus de sortides           | Tecnologia                                        |
+|------------------|---------------------------|--------------------------------------------------|--------------------------------------|--------------------------------------------------|
+| **SLC-4000-TWIN PRO3** | 4000 VA / 4000 W           | ~11 min al 80% de càrrega amb bateries internes; ampliable fins a 44–88 min amb mòduls externs | Sortides AC tipus *C13* i *C19*     | On-line, doble conversió, monofàsic, tecnologia DSP, FP = 1 |
+| **SLC-4000-TWIN RT3**  | 4000 VA / 4000 W           | No especificada (depèn de configuració)          | 2 sortides AC tipus *C13*           | On-line, doble conversió, monofàsic, format torre/rack convertible, FP = 1 |
+| **SLC-7,5-CUBE4**      | 7500 VA / 7500 W (trifàsic) | No especificada; amb opcions d’autonomia estesa mitjançant bancs de bateries externs | No especificat al full públic       | On-line, doble conversió, trifàsic, control DSP, HF, FP = 1 |
+
 
 # 6. Anàlisi comparativa i selecció final
 
