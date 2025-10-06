@@ -108,3 +108,7 @@ ordinadors amb energia per poder guardar la feina abans de perdre-la
 > SLC-4000-TWIN PRO3 peró s'ha de tenir en compte que faria falta mòduls
 > de bateria i si vols un format convertible el RT3 és la millor opció
 > però també faria falta també mòduls de bateria extern.
+
+
+
+[Tornar enrera](../README.md)
