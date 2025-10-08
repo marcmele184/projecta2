@@ -6,4 +6,4 @@ Un nou client de la consultora EverPia ha demanat que l’assessoreu per escolli
 Els clients els repartirem a classe.
 La finalitat és que acabeu fent una presentació per explicar-li a cada client quin hosting li recomaneu i donar arguments i criteris propis d’un tècnic informátic.
 
-La solucio d'aquesta activitat estara a continuació: [solució](solucio)
+La solucio d'aquesta activitat estara a continuació: [solució](solucio.md)
