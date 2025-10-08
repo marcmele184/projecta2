@@ -24,4 +24,4 @@ El repte és clar: aprendre a funcionar com a consultora. Això implica no nomé
 
 [Tasca03](tasca03/readme.md)
 
-[Tasca08](tasca08/readme.md)
+[Tasca08](Tasca08/readme.md)
