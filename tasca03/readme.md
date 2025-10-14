@@ -11,7 +11,7 @@ Tenen un portàtil amb Zorin OS (un Linux amb entorn gràfic) que usava habitual
 
 ---
 
-A l'arxiu [informe final]()
+A l'arxiu [informe final](Solucio.md)
 
 [Tornar al menu principal](../README.md)
 
