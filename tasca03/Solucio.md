@@ -4,6 +4,7 @@
 
 Marc Melendo   
 2n b sistemes microinformàtics i xarxes
+
 Link al [docs](https://docs.google.com/document/d/1HB_-Vpcaq0nlhv4iNWEHdD1XMobPg66Q/edit?usp=sharing&ouid=117080756775083118180&rtpof=true&sd=true)
 
 # Font d’informació: [modificar la contrasenya](https://waytoit.wordpress.com/2013/06/06/recuperando-password-en-ubuntu/) i [protegir el grub](https://waytoit.wordpress.com/2019/09/15/protegiendo-grub-en-ubuntu-server/)
