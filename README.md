@@ -18,7 +18,7 @@ El repte és clar: aprendre a funcionar com a consultora. Això implica no nomé
 
 ---
 
-## Tasques del projecta 2
+## Tasques del projecte 2
 
 [Tasca02](tasca02/readme.md)
 
